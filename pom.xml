@@ -21,9 +21,13 @@
     <module>tomcat</module>
     <module>spring</module>
     <module>cas</module>
+    <module>feature</module>
     <module>ShardingSphere-UI</module>
     <module>shiro</module>
     <module>nexus</module>
+    <module>apache-poi</module>
+    <module>java-compile</module>
+    <module>spring-session-redis-sync</module>
   </modules>
 
   <name>learn-java-bug</name>
